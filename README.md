@@ -2,6 +2,7 @@
 
 Arduino library to control Grove_4Digital_Display TM1637. 4 digit display module is usually a 12 pin module. In this Grove gadget, we utilize a TM1637 to scale down the controlling pins into 2 Grove pins. It only takes 2 digital pins of Arduino or Seeeduino to control the content, even the luminance of this display. For projects that require of alpha-numeric display, this can be a nice choice. Original author: Seeed Studio. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.0.0. Upstream: <https://github.com/Seeed-Studio/Grove_4Digital_Display>.
 
+**Source last updated:** 2018-05-21  
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
 **Output:** Arduino library
