@@ -20,6 +20,10 @@ Arduino library to control Grove_4Digital_Display TM1637. 4 digit display module
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/arduino_644462`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Seeed Studio
