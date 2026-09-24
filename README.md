@@ -31,7 +31,7 @@ Install this folder as an Arduino library (Sketch → Include Library → Add .Z
 - **Version:** 1.0.0
 - **Upstream URL:** <https://github.com/Seeed-Studio/Grove_4Digital_Display>
 - **Category:** Sensors
-- This repository is Dave Robinson's working copy for catalogue/reference; authorship stays with the original authors.
+- This repository is my working copy for catalogue/reference; authorship stays with the original authors.
 
 ## License
 
